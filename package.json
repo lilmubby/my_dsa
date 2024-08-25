@@ -1,0 +1,12 @@
+{
+  "name": "leet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  }
+}
